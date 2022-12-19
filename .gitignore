@@ -1,0 +1,7 @@
+*.users
+*.db
+*.properties
+*.keys
+*.pem
+./git/domaci_12_12_2022/appium/appium/packages/doctor/bin/
+
